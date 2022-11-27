@@ -1,4 +1,4 @@
-## Anything related to libraries will not be covered.
+## Anything related to libraries will not be covered. Case studies are also not covered, refer to courses reference book if you want to check them.
 We are taking on-paper exams in the 21st century, do you really think they will allow us to use library? Pass everything related to libraries.
 This is totally not a passive-aggressive rant about taking on-paper exams on a slow and obscure as hell language.
 
@@ -7,6 +7,7 @@ This book is based on Liang's Introduction to Java, and all those markdown files
 First two chapters includes: 
 
 -Introduction to computers, which you learned from digital logic systems.
+
 -Elementary programming
 
 So we pass them.
